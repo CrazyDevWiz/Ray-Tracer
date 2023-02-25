@@ -1,0 +1,5 @@
+package Geometry
+
+func NewCamera() {
+
+}
